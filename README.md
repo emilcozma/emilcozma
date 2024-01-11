@@ -1,10 +1,10 @@
 
 ## Hello 👋, 
 
-My name Emil COZMA and I'm a Full-stack Web Developer. I'm from Romania and now I am living in Spain trying to find the perfect work-life balance.
+My name is Emil COZMA and I'm a Full-stack Web Developer. I'm from Romania, and now I am living in Spain, trying to find the perfect work-life balance.
 
 - 🔭 I’m currently working on some Arduino and Rasperry Pi projects
-- 🌱 I’m currently learning Rust, TypeScript
+- 🌱 I’m currently learning Rust and TypeScript
 - 📫 How to reach me: emil.cozma@gmail.com
 
 $~$
