@@ -1,7 +1,7 @@
 
 ## Hello 👋, 
 
-My name is Emil COZMA and I'm a Full-stack Web Developer. I'm from Romania, and now I am living in Spain, trying to find the perfect work-life balance.
+My name is Emil COZMA and I'm a Senior Full-stack Engineer. I'm from Romania, and now I am living in Spain, trying to find the perfect work-life balance.
 
 - 🔭 I’m currently working on my personal portfolio website and some Arduino / Raspberry Pi projects
 - 🌱 I’m currently learning Rust and TypeScript
