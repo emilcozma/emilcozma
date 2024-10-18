@@ -5,10 +5,11 @@ My name is Emil COZMA and I'm an Experienced Full-stack Web Developer with over 
 
 ### ⚡ Quick facts
 
-- 🔭 I’m currently working on my personal portfolio website and some Arduino / Raspberry Pi projects
-- 🌱 I’m currently learning Rust and TypeScript
-- 👯 I would love to collaborate and contribute to open source projects 
-- 📫 How to reach me: emil.cozma@gmail.com
+- 🔭 I’m currently working on my personal portfolio website and some Arduino / Raspberry Pi projects.
+- 🌱 I’m currently learning Rust and TypeScript.
+- 👯 I would love to improve my cybersecurity skills and collaborate / contribute to open source projects.
+- 🚶 I am interested in entrepreneurship and want to create a startup, so I am actively looking for some serious partners.
+- 📫 You can reach me at emil.cozma@gmail.com.
 
 $~$
 
