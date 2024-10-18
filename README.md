@@ -1,7 +1,7 @@
 
 ## Hello 👋, 
 
-My name is Emil COZMA and I'm a Experienced Full-stack Web Developer with over 10 years of experience. I specialize in building robust web applications and scalable systems. I thrive in remote work environments, delivering clean, efficient code while constantly learning and adapting to new technologies. I'm from Romania, and now I am living in Spain, trying to find the perfect work-life balance. Let's build something amazing together!
+My name is Emil COZMA and I'm an Experienced Full-stack Web Developer with over 10 years of experience. I specialize in building robust web applications and scalable systems. I thrive in remote work environments, delivering clean, efficient code while constantly learning and adapting to new technologies. I'm from Romania, and now I am living in Spain, trying to find the perfect work-life balance. Let's build something amazing together!
 
 ### ⚡ Quick facts
 
