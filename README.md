@@ -44,9 +44,9 @@ With over a decade of experience in software engineering and a recent pivot into
 
 I'm open to remote roles, freelance gigs, or collaborations in cybersecurity, ethical hacking, and security engineering.
 
-- 🌐 [thecozma.com](https://thecozma.com)  
+- 🌐 [thecozma.com](https://thecozma.com)
 - 📧 me@thecozma.com  
-- 💼 [LinkedIn](https://linkedin.com/in/emilcozma)
+- 💼 [LinkedIn](https://linkedin.com/in/emil-stefan-cozma)
 
 ---
 
