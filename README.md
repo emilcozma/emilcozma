@@ -34,9 +34,9 @@ With over a decade of experience in software engineering and a recent pivot into
 
 ## 🌍 Projects Worth Checking Out
 
-- 🔐 [NeuraShift](https://getneurashift.com) – AI Integration for Small Business
-- 🔎 [Scanwise](https://scanwise.app) – AI-powered vulnerability scanner for web apps  
-- 🧠 [JobScamFinder](https://jobscamfinder.com) – Detect scam job postings using AI/NLP  
+- [![](https://getneurashift.com/assets/favicons/favicon-16x16.png) NeuraShift](https://getneurashift.com) – AI Integration for Small Business
+- [![](https://scanwiseapp.com/assets/favicons/favicon-16x16.png) Scanwise](https://scanwise.app) – AI-powered vulnerability scanner for web apps  
+- [![](https://jobscamfinder.com/assets/favicons/favicon-16x16.png) JobScamFinder](https://jobscamfinder.com) – Detect scam job postings using AI/NLP  
 
 ---
 
@@ -44,9 +44,9 @@ With over a decade of experience in software engineering and a recent pivot into
 
 I'm open to remote roles, freelance gigs, or collaborations in cybersecurity, ethical hacking, and security engineering.
 
-- 💼 [LinkedIn](https://linkedin.com/in/emil-stefan-cozma)
-- 🌐 [thecozma.com](https://thecozma.com)
-- 📧 me@thecozma.com  
+- [![Linkedin](https://i.sstatic.net/gVE0j.png) in/emil-stefan-cozma](https://linkedin.com/in/emil-stefan-cozma)
+- [![](https://thecozma.com/assets/img/favicons/favicon-16x16.png) thecozma.com](https://thecozma.com)
+- 📧 me@thecozma.com
 
 ---
 
