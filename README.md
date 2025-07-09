@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Emil Cozma
+# 👋 Hi there, I'm Emil COZMA
 
 🚀 Cybersecurity Specialist | Ethical Hacker | Remote-First Technologist
 
-With over a decade of experience in software engineering and a recent pivot into cybersecurity, I'm passionate about protecting systems, users, and businesses from digital threats. I hold the **Google Cybersecurity Certificate** and build tools that make the web safer — from AI-enhanced vulnerability scanners to scam detection platforms.
+With over a decade of experience in software engineering and a recent pivot into cybersecurity, I'm passionate about protecting systems, users, and businesses from digital threats. I hold the **Google Cybersecurity Certificate** and build tools that make the web safer - from AI-enhanced vulnerability scanners to scam detection platforms.
 
 ---
 
@@ -50,4 +50,4 @@ I'm open to remote roles, freelance gigs, or collaborations in cybersecurity, et
 
 ---
 
-> "Security is not a product, but a process." – Bruce Schneier
+> "Security is not a product, but a process." - Bruce Schneier
