@@ -2,7 +2,7 @@
 
 🚀 Cybersecurity Specialist | Ethical Hacker | Remote-First Technologist
 
-With over a decade of experience in software engineering and a recent pivot into cybersecurity, I'm passionate about protecting systems, users, and businesses from digital threats. I hold the **Google Cybersecurity Certificate** and build tools that make the web safer - from AI-enhanced vulnerability scanners to scam detection platforms.
+With over a decade of experience in software engineering and a recent pivot into cybersecurity, I'm passionate about protecting systems, users, and businesses from digital threats. I hold the [**Google Cybersecurity Certificate**](https://www.credly.com/badges/845b4066-9a99-43d5-9694-12478433de1e/linked_in_profile) and build tools that make the web safer - from AI-enhanced vulnerability scanners to scam detection platforms.
 
 ---
 
@@ -44,9 +44,9 @@ With over a decade of experience in software engineering and a recent pivot into
 
 I'm open to remote roles, freelance gigs, or collaborations in cybersecurity, ethical hacking, and security engineering.
 
+- 💼 [LinkedIn](https://linkedin.com/in/emil-stefan-cozma)
 - 🌐 [thecozma.com](https://thecozma.com)
 - 📧 me@thecozma.com  
-- 💼 [LinkedIn](https://linkedin.com/in/emil-stefan-cozma)
 
 ---
 
