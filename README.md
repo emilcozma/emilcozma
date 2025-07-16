@@ -12,7 +12,7 @@ With over a decade of experience in software engineering and a recent pivot into
   I specialize in identifying and analyzing threats across networks, web applications, and systems. I use tools like Wireshark, Burp Suite, Nmap, and OpenVAS to perform vulnerability assessments and baseline hardening.
 
 ⚙️ **Security Automation & Tooling**  
-  I develop Python- and Bash-based scripts to automate scanning, alerting, and reporting — reducing manual effort and speeding up incident response.
+  I develop Python and Bash based scripts to automate scanning, alerting, and reporting - reducing manual effort and speeding up incident response.
 
 🔍 **Monitoring & Analysis**  
   I analyze logs and events (e.g., using ELK stack, Fail2Ban, custom log parsers) to detect patterns and potential intrusions.
