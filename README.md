@@ -6,23 +6,21 @@ With over a decade of experience in software engineering and a recent pivot into
 
 ---
 
-## 🔐 What I Do
-
 ## 🧠 What I Do
 
-- 🛡️ **Threat Detection & Vulnerability Management**  
+🛡️ **Threat Detection & Vulnerability Management**  
   I specialize in identifying and analyzing threats across networks, web applications, and systems. I use tools like Wireshark, Burp Suite, Nmap, and OpenVAS to perform vulnerability assessments and baseline hardening.
 
-- ⚙️ **Security Automation & Tooling**  
+⚙️ **Security Automation & Tooling**  
   I develop Python- and Bash-based scripts to automate scanning, alerting, and reporting — reducing manual effort and speeding up incident response.
 
-- 🔍 **Monitoring & Analysis**  
+🔍 **Monitoring & Analysis**  
   I analyze logs and events (e.g., using ELK stack, Fail2Ban, custom log parsers) to detect patterns and potential intrusions.
 
-- 🧠 **AI for Cyber Defense**  
+🧠 **AI for Cyber Defense**  
   I'm currently developing **Scanwise**, an AI-powered web vulnerability scanner, and **JobScamFinder**, a tool to identify fake job postings online.
 
-- ☁️ **Secure DevOps**  
+☁️ **Secure DevOps**  
   Experience with Docker, CI/CD pipelines, and hardening servers (Linux/BSD) for production.
 
 ---
